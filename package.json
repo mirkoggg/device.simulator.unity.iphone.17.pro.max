@@ -1,0 +1,17 @@
+{
+  "name": "com.mirkoggg.device-simulator-iphone17",
+  "version": "1.0.0",
+  "displayName": "Device Simulator - iPhone 17 Series",
+  "description": "Device Simulator definitions and overlays for iPhone 17, iPhone 17 Pro, and iPhone 17 Pro Max, not yet included in Unity's official device-simulator.devices package.",
+  "unity": "2019.3",
+  "keywords": [
+    "device simulator",
+    "iphone",
+    "ios",
+    "mobile"
+  ],
+  "author": {
+    "name": "mirkoggg"
+  },
+  "license": "MIT"
+}
